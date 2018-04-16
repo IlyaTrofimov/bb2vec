@@ -1,4 +1,4 @@
-# Inferring Complementary Products from Baskets and Browsing Sessions
+## Inferring Complementary Products from Baskets and Browsing Sessions
 
 ## prerequisites
 ```
