@@ -1,5 +1,4 @@
-# acc-rec
-Complementary items recommendation
+# Inferring Complementary Products from Baskets and Browsing Sessions
 
 ## prerequisites
 ```
