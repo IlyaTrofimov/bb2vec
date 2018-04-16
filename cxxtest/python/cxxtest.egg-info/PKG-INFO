@@ -1,0 +1,29 @@
+Metadata-Version: 1.1
+Name: cxxtest
+Version: 4.4
+Summary: cxxtest: A Python package that supports the CxxTest test framework for C/C++.
+Home-page: http://cxxtest.com
+Author: William E. Hart
+Author-email: whart222@gmail.com
+License: LGPL
+Description: .. _CxxTest: http://cxxtest.com/
+        
+        CxxTest is a unit testing framework for C++ that is similar in
+        spirit to JUnit, CppUnit, and xUnit. CxxTest is easy to use because
+        it does not require precompiling a CxxTest testing library, it
+        employs no advanced features of C++ (e.g. RTTI) and it supports a
+        very flexible form of test discovery.
+        
+        The cxxtest Python package includes capabilities for parsing C/C++ source files and generating
+        CxxTest drivers.
+        
+Keywords: utility
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: LGPL License
+Classifier: Natural Language :: English
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

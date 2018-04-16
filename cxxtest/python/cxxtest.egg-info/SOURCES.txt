@@ -1,0 +1,14 @@
+README.txt
+setup.py
+cxxtest/__init__.py
+cxxtest/__release__.py
+cxxtest/cxx_parser.py
+cxxtest/cxxtest_fog.py
+cxxtest/cxxtest_misc.py
+cxxtest/cxxtest_parser.py
+cxxtest/cxxtestgen.py
+cxxtest.egg-info/PKG-INFO
+cxxtest.egg-info/SOURCES.txt
+cxxtest.egg-info/dependency_links.txt
+cxxtest.egg-info/top_level.txt
+scripts/cxxtestgen
