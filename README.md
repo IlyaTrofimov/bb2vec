@@ -1,4 +1,9 @@
-## Inferring Complementary Products from Baskets and Browsing Sessions
+## Baskets and Browsing sessions to vector (BB2vec)
+## Complementary Products Recommendation
+
+This is the source code of the paper "Inferring Complementary Products from Baskets and Browsing Sessions": https://arxiv.org/abs/1809.09621
+
+Presentation: https://www.slideshare.net/ssuserb10599/inferring-complementary-products-from-baskets-and-browsing-sessions
 
 ## prerequisites
 ```
