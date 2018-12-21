@@ -21,3 +21,11 @@ sudo python setup.py install;
 make test;
 make;
 ```
+## usage
+
+See https://github.com/IlyaTrofimov/bb2vec/blob/master/example.sh
+Also you can check the possible options by 
+./acc-rec --help
+
+Baskets format: basket_id \t item_id
+Views format: item1_id \t item2_id
