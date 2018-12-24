@@ -30,4 +30,4 @@ Also you can check the possible options by
 
 Baskets format: basket_id \t item_id
 
-Views format: item1_id \t item2_id
+Views format: item1_id \t item2_id \t PMI
